@@ -99,6 +99,16 @@ body {
 	border-bottom: 8px rgb(223, 66, 38) solid;
 }
 
+.loading-text {
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 2rem;
+	position: absolute;
+	left: 50%;
+	top: 55%;
+	transform: translateX(-50%);
+}
+
 .footer {
 	color: whitesmoke;
 	font-family: 'Montserrat', sans-serif;
